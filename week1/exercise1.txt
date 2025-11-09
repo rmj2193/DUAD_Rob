@@ -1,0 +1,20 @@
+1. Inicio
+2. Si la PC no está encendida
+    1. Presionar el boton de encendido
+    
+    Sino
+    
+    1. Continuar
+3. Si se solicita contraseña o PIN
+    1. Autenticarse en inicio de sesión
+    
+    Sino
+    
+    1. Continuar
+4. Abrir el navegador de preferencia
+5. Utilizar el bookmark de www.youtube.com
+6. Usar la barra de busqueda para encontrar el video de preferencia
+7. Mientras no se encuentre el video buscado:
+    1. Redefinir busqueda o pasar a la siguiente pagina
+8. Ver Video y disfrutar
+9. Fin

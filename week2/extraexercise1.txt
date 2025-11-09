@@ -1,0 +1,24 @@
+Inicio
+		
+		Definir primero
+		Definir segundo
+		Definir temp
+		
+		Mostrar "Ingrese el primer número"
+		Leer primero
+
+		Mostrar "Ingrese el segundo número"
+		Leer segundo
+
+		Si (primero > segundo) entonces
+		    temp = primero
+		    primero = segundo
+		    segundo = temp
+		Fin Si
+
+		Mostrar "Numero menor: "
+		Mostrar primero
+		Mostrar "Numero mayor: "
+		Mostrar segundo
+		
+Fin

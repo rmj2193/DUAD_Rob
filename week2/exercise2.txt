@@ -1,0 +1,24 @@
+Inicio
+
+		Definir tiempo
+		Definir objetivo
+		Definir faltante
+		
+		objetivo = 600
+
+		Mostrar "Ingrese el tiempo en segundos"
+		Leer tiempo
+
+		Si (tiempo < objetivo) entonces
+		    faltante = objetivo - tiempo
+		    Mostrar "Segundos para los 10 minutos: "
+		    Mostrar faltante
+		Sino
+		    Si (tiempo > objetivo) entonces
+		        Mostrar "El tiempo es Mayor a 10 mins"
+		    Sino
+		        Mostrar " El tiempo es Igual a 10 mins"
+		    Fin Si
+		Fin Si
+
+Fin

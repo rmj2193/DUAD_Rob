@@ -1,0 +1,42 @@
+Inicio
+
+		Definir mujeres
+		Definir hombres
+		Definir total
+		Definir contador
+		Definir sexo
+		Definir porcentaje_mujeres
+		Definir porcentaje_hombres
+		
+		mujeres = 0
+		hombres = 0
+		total = 6
+		contador = 1
+		
+		Mientras que (contador <= total) repetir
+		    Mostrar "Ingrese el sexo (1 = mujer, 2 = hombre)"
+		    Leer sexo
+		
+		    Si (sexo == 1) entonces
+		        mujeres = mujeres + 1
+		    Sino
+		        Si (sexo == 2) entonces
+		            hombres = hombres + 1
+		        Sino
+		            Mostrar "Entrada inválida"
+		            contador = contador - 1
+		        Fin Si
+		    Fin Si
+		
+		    contador = contador + 1
+		Fin Mientras
+		
+		porcentaje_mujeres = (mujeres / total) * 100
+		porcentaje_hombres = (hombres / total) * 100
+		
+		Mostrar "Porcentaje de mujeres:"
+		Mostrar porcentaje_mujeres
+		Mostrar "Porcentaje de hombres:"
+		Mostrar porcentaje_hombres
+
+Fin
