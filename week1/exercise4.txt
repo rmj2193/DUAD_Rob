@@ -1,0 +1,23 @@
+1. Inicio
+2. Recolectar temas, fecha y materiales de estudio
+3. Crear plan de estudio por días y bloques
+4. Mientras el nivel de confianza sea < 8/10
+    1. Leer y resumir un tema
+    2. Repasar puntos clave
+    3. Practicar ejercicios o preguntas
+    4. Realizar autoevaluación 
+    5. Si el acierto es ≥ 80% y se entiende el tema
+        1. Marcar el tema como “Completado”
+        
+        Sino
+        
+        1. Registrar dudas y repetir repaso
+5. Si faltan ≤ 3 días
+    1. Enfocarse en fallos y descanso 
+    
+    Sino
+    
+    1. Continuar con el plan normal
+6. Preparar materiales y horarios para el día del examen
+7. Dormir bien
+8. Fin

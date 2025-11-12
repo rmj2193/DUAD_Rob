@@ -1,0 +1,20 @@
+Inicio
+		Definir numero
+		Definir suma
+		Definir contador
+		
+		suma = 0
+		contador = 1
+
+		Mostrar "Ingrese un número"
+		Leer numero
+
+		Mientras que (contador <= numero) hacer
+		    suma = suma + contador
+		    contador = contador + 1
+		Fin Mientras
+
+		Mostrar "La suma de los numeros es: "
+		Mostrar suma
+
+Fin

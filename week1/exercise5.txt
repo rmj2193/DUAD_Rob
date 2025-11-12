@@ -1,0 +1,29 @@
+1. Inicio
+2. Escger destino, fechas y presupuesto
+3. Si el viaje es internacional
+    1. Verificar pasaporte, visas y seguro
+    
+    Sino
+    
+    1. Continuar con requisitos locales
+4. Hacer reservas de transporte y hospedaje
+5. Armar itinerario con actividades y horarios
+6. Si el clima previsto es frío
+    1. Agregar capas e impermeable
+    
+    Sino
+    
+    1. Agregar bloqueador, gorra e hidratación
+7. Organizar finanzas
+8. Seguridad: medicamentos y contactos de emergencia
+9. Si la mascota viaja y el alojamiento es pet-friendly
+    1. Preparar carnet de vacunas, correa y snacks
+    
+    Sino
+    
+    1. Coordinar cuidador y horarios
+10. Mientras falten más de 3 días
+    1. Confirmar reservas y revisar el clima diariamente
+11. Día anterior: tickets listos, dispositivos cargados y maleta preparados
+12. Día del viaje: salir con tiempo y hacer check-in
+13. Fin

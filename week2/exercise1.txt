@@ -1,0 +1,18 @@
+Inicio
+		Definir precio
+		Definir descuento
+		Definir precio_final
+		
+		Mostrar "Ingrese el precio del producto"
+    Leer precio
+    
+    Si (precio < 100) entonces
+        descuento = precio * 0.02
+    Sino
+        descuento = precio * 0.10
+    Fin Si
+    
+    precio_final = precio - descuento  
+    Mostrar "El precio final es: "
+    Mostrar precio_final 
+Fin

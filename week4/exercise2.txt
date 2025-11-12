@@ -1,0 +1,7 @@
+1. string + string → Concatena un string con otra
+2. string + int → TypeError
+3. int + string → TypeError
+4. list + list → Concatena una lista con otra
+5. string + list → TypeError
+6. float + int → Suma y el resultado es float
+7. bool + bool → Suma aritmetica donde True = 1 y False = 0

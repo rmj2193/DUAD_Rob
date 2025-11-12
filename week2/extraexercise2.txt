@@ -1,0 +1,14 @@
+Inicio
+
+		Definir vel_kmh
+		Definir vel_ms
+		
+		Mostrar "Ingrese velocidad en km/h"
+		Leer vel_kmh
+
+		vel_ms = vel_kmh / 3.6
+
+		Mostrar "La velocidad en m/s es: "
+		Mostrar vel_ms
+
+Fin

@@ -1,0 +1,63 @@
+1. Inicio
+2. Despertar y reposar 5 minutos
+3. Levantarse de la cama
+4. Estiramientos por 2 minutos
+5. Si es día laboral
+    1. Abrir el calendario y revisar agenda
+    
+    Sino
+    
+    1. Definir metas básicas del día
+6. Preparar/servir desayuno y agua
+    1. Si corresponde medicación con comida
+        1. Tomarla según indicación
+        
+        Sino
+        
+        1. Continuar
+7. Mientras no se completen 15 minutos de práctica de idioma
+    1. Abrir Duolingo 
+    2. Completar ejercicios
+8. Mientras no se complete 1 hora de estudio Lyfter
+    1. Estudiar 25 min
+    2. Tomar descanso de 5 min
+9. Ejercicio 
+    1. Si el clima es lluvioso o hay poco tiempo
+        1. Hacer rutina de ejercicio indoor guiada en YouTube
+        
+        Sino
+        
+        1. Hacer rutina de ejercicio en el patio guiada en YouTube
+10. Encender la PC de trabajo
+11. Realizar tasks diarias
+12. Preparar/servir almuerzo y agua
+    1. Si se está fuera de casa
+        1. Elegir opción balanceada
+        
+        Sino
+        
+        1. Continuar
+13. Si hay tiempo para guitarra
+    1. Abrir metrónomo o curso
+    2. Mientras no se completen 20–30 min de práctica
+        1. Practicar técnica y canciones
+    
+    Sino
+    
+    1. Continuar
+14. Si es entre 5 pm y 7 pm y no hay pendientes urgentes
+    1. Abrir el launcher (Epic/Steam) y jugar con amigos
+    
+    Sino
+    
+    1. Resolver pendientes y reintentar más tarde
+15. Cena 
+    1. Preparar/servir cena y agua
+    2. Si corresponde medicación nocturna
+        1. Tomarla según indicación
+        
+        Sino
+        
+        1. Continuar
+16. Revisar tareas completadas y programar recordatorios para mañana
+17. Fin
