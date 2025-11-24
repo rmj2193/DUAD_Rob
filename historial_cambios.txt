@@ -1,0 +1,15 @@
+commit 5af2bbf108c81c3f3bb6cc0cf13df04187c95f2d (origin/past-exercises, past-exercises)
+
+Original commit with all past weeks' exercises
+
+---------------------------------------------------------------------------------------
+
+commit f8dcd193a5e25cac3eea90caeecbd0e23115aabc (origin/main, origin/HEAD, main)
+
+Second commit with updated information requested by reviewer with terminals and diagram exercises
+
+---------------------------------------------------------------------------------------
+
+commit e36cd5a49cf850679a4a95714bc2fb4fb56d7bb9 (HEAD -> experimentacion, origin/experimentacion)
+
+Third commit creating the week 9 folder with a test txt inside
